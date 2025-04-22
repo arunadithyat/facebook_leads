@@ -97,6 +97,10 @@ def createLead(data):
 			if page_id == "109056373809678":
 				custom_product_enquired = 'Timbe'
 				company_name = 'Timbe Windows Private Limited'
+				
+			if page_id == "61571081649973":
+				custom_product_enquired = 'Bioman'
+				company_name = 'Bioman Sewage Solutions Private Limited'	
 			
 
 			fbLeadData = f'Form Name : {resFormNameData}\n\n'
